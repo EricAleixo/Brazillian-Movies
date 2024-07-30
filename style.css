@@ -1,0 +1,118 @@
+body{
+  background-color: #0a0907;
+  
+}
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+}
+p{
+  margin-left: 15px;
+  color: #8a8364;
+}
+.legenda{
+  margin: cover;
+  margin-top: 10px;
+  align-items: auto;
+}
+.legenda1{
+  margin-top: 30px;
+}
+.legenda2{
+  margin-top: 81px;
+}
+.legenda3{
+  margin-top: 37px;
+}
+
+.carousel {
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+
+h1{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  font-family: stencil std, fantasy;
+  background-color: #12111f;
+  margin: cover ;
+  border-radius: 15px;
+  font-size: 60px;
+  color: #d69404;
+}
+.logo{
+    border-radius: 50px;
+    width: 50px;
+  height: 50px;
+  margin-bottom: -130px;
+  margin-left:30px;
+}
+.logorede{
+    width: 110px;
+  height: 50px;
+  margin-bottom: -105px;
+  margin-left:90%;
+}
+
+
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+}
+
+
+.img{
+  width:100%;
+  height: 150%;
+  background-image: url("G1.jpg");
+  background-size:cover;
+  margin:auto;
+  display: block;
+}
+
+
+/* grade carrossel */
+.gallery {
+  margin-left: 60px;
+  margin-right: -40%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+img{
+  border-radius: 10px;
+}
+.photo {
+  width: 176px;
+}
+
+.photo img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container{
+  margin-top: 60px;
+}
+
+h2{
+  color: #9E7E0C;
+  margin-top: 170px;
+  font-size: 50px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #203008;
+  border-radius: 20px;
+  text-justify: inter-character;
+}
+hr{
+  margin-left:70px;
+  margin-right: 70px;
+}
+
